@@ -7,4 +7,4 @@ I graduated from high school with a degree in Sciences with 6 hours of math, whi
 Next to my love for technology and programming, I'm passionate about the human body, sport and health.
 
 ### Find me elsewhere
-link=https://www.linkedin.com/in/quinten-van-eylen/
+https://www.linkedin.com/in/quinten-van-eylen/
